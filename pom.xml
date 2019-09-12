@@ -56,4 +56,10 @@
             <url>http://34.93.87.151:8081/repository/maven-releases/</url>
         </repository>
     </distributionManagement>
+    <distributionManagement>
+        <repository>
+            <id>maven-test</id>
+            <url>http://34.93.87.151:8081/repository/maven-releases/</url>
+        </repository>
+    </distributionManagement>
 </project>
